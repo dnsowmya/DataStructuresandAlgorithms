@@ -10,7 +10,7 @@ def max_product(arr):
 print(max_product(arr))
 
 # Another Approach
-
+"""
 def max_prod_arr(arr):
     # Initialize 2 variables to store the 2 largest numbers
     max1, max2 = 0, 0
@@ -29,6 +29,7 @@ def max_prod_arr(arr):
     return max1*max2
 
 print(max_prod_arr(arr))
+"""
 
 # Time Complexity: O(n)
 # Space Complexity: O(1)

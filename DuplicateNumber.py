@@ -6,7 +6,7 @@ def remove_duplicates(arr):
 print(remove_duplicates([1, 1, 2, 2, 3, 4, 5]))
 
 # Another approach
-
+"""
 def rem_dup(lst):
     unique_list = []
     seen = set()
@@ -34,4 +34,4 @@ def contains_duplicate(nums):
 
 nums = [1, 2, 3, 1]
 print(contains_duplicate(nums))
-
+"""

@@ -9,6 +9,7 @@ myList = [84,85,86,87,85,90,85,83,23,45,84,1,2,0]
 print(first_second(myList))
 
 # Another approach
+"""
 def first_sec(my_list):
     max1,max2 = float('-Inf'), float('-Inf')
 
@@ -22,7 +23,7 @@ def first_sec(my_list):
     return max1, max2
 
 print(first_sec(myList))
-
+"""
 # Time Complexity: O(n)
 # Space Complexity: O(1)
 
