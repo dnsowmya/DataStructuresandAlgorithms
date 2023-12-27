@@ -9,7 +9,7 @@ print(stringList)
 mixedList = [1, 1.5, 'Spice']
 print(mixedList)
 
-nestedList = [1, 2, 3, 4, [1.5, 1.6], ['test']]
+nestedList = [1, 2, 3, 4, [1.5, 1.6], ['DeleteSingleLinkedList.py']]
 print(nestedList)
 
 empty = []
@@ -21,10 +21,10 @@ print(intList)
 stringList = ['milk','cheese','butter']
 print(stringList)
 
-mixedList = [3,3.7,'test']
+mixedList = [3,3.7,'DeleteSingleLinkedList.py']
 print(mixedList)
 
-nestedList = [1,2,3,4,1.5,1.6,['test']]
+nestedList = [1,2,3,4,1.5,1.6,['DeleteSingleLinkedList.py']]
 print(nestedList)
 
 shoppingList = ['Milk','Cheese','Butter']
@@ -99,7 +99,7 @@ print("Sum of all the values in List a is:",sum(a))
 print("Average value in List a is:", sum(a)/len(a))
 
 mylist3 = []
-input_var = "done" # changing for test
+input_var = "done" # changing for DeleteSingleLinkedList.py
 total = 0
 average = 0
 while input_var != 'done':
